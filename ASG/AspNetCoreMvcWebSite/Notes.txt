@@ -1,0 +1,5 @@
+When adding a new webpage:
+1. Create the .cshtml file inside the Views/Home folder
+2. Modify the file with Razor syntax (include the @ sign to notify that it is a MVC page)
+3. Update the HomeController.cs file to include a method to display the webpage view 
+4. Profit

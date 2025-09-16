@@ -15,10 +15,20 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
+        var assignmentOneMark = 27;
+        var assignmentTwoMark = 27;
+        var tutorialMark = 36;
+        var totalMark = assignmentOneMark + assignmentTwoMark + tutorialMark;
+        ViewBag.MyTotalMark = totalMark;
         return View();
     }
 
     public IActionResult Privacy()
+    {
+        return View();
+    }
+
+    public IActionResult Contact()
     {
         return View();
     }

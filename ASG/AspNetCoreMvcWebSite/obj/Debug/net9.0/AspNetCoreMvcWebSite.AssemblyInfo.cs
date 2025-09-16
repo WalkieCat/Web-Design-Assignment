@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AspNetCoreMvcWebSite")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a031e64ac70e31005579280fb5330baa92d0068")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec5b0dcd7d72820bc264ec7527e6b1a7337ca006")]
 [assembly: System.Reflection.AssemblyProductAttribute("AspNetCoreMvcWebSite")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AspNetCoreMvcWebSite")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
